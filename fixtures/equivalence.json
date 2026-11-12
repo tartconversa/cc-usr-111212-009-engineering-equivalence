@@ -1,0 +1,24 @@
+{
+  "alpha": 0.05,
+  "endpoints": {
+    "force": {
+      "lower": -0.5,
+      "upper": 0.5,
+      "unit": "N"
+    },
+    "heat": {
+      "lower": -0.4,
+      "upper": 0.6,
+      "unit": "C"
+    }
+  },
+  "global_claim": "all_registered_endpoints_equivalent",
+  "endpoint_claims": "Holm",
+  "paired_difference": "new-minus-old",
+  "common_complete_sensitivity": true,
+  "hand_reference": {
+    "mean": 0,
+    "standard_error": 0.2,
+    "df": 9
+  }
+}

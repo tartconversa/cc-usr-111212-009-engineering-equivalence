@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/equivalence.json",
+    "sha256": "7d93e59f2a16bc35eceabf8411f0e8c180cd452079a731343c408254a193e77c",
+    "size_bytes": 448
+  },
+  {
+    "path": "fixtures/measurements.csv",
+    "sha256": "1d96a4cf31205cbb468c80789c54c7280c17e601cf8b21517c87d1932c3c3bf6",
+    "size_bytes": 389
+  }
+]
